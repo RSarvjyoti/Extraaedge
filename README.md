@@ -39,7 +39,9 @@ Drive Link : [Watch Now](https://drive.google.com/file/d/1ep6SSy373Fxv4Ez5TgCnhP
 
 ## SS
 ![screencapture-sensational-axolotl-bf8ba6-netlify-app-2024-11-21-17_09_34](https://github.com/user-attachments/assets/51b026e2-a8bb-408a-adcf-363c0a4217eb)
-![screencapture-sensational-axolotl-bf8ba6-netlify-app-user-1-2024-11-21-17_10_21](https://github.com/user-attachments/assets/50410c20-8fa2-42f7-9e4f-f12be36914c6)
+
 ![screencapture-sensational-axolotl-bf8ba6-netlify-app-user-2024-11-21-17_09_53](https://github.com/user-attachments/assets/68079246-f1bc-4a43-ac8e-ef1ab9a69939)
+
+![screencapture-sensational-axolotl-bf8ba6-netlify-app-user-1-2024-11-21-17_10_21](https://github.com/user-attachments/assets/50410c20-8fa2-42f7-9e4f-f12be36914c6)
 
 
