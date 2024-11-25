@@ -18,7 +18,7 @@ This project is a ReactJS-based web application that fetches data from a REST AP
 ---
 
 ## API Details
-This application uses the [JSONPlaceholder](https://jsonplaceholder.typicode.com/) API for demo data.  
+This application uses the [JSONPlaceholder](https://serene-boba-bc9086.netlify.app/) API for demo data.  
 - **Users Endpoint**: `https://jsonplaceholder.typicode.com/users`  
 
 ---
