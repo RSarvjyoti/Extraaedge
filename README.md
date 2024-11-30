@@ -32,7 +32,7 @@ src/
 ├── styles/          
 
 ## Deploy
-Click Here : [Go Live](https://sensational-axolotl-bf8ba6.netlify.app/)
+Click Here : [Go Live](https://serene-boba-bc9086.netlify.app/)
 
 ## Demo Video
 Drive Link : [Watch Now](https://drive.google.com/file/d/1ep6SSy373Fxv4Ez5TgCnhPCn_nqSL_m-/view?usp=sharing)
